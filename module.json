@@ -34,6 +34,6 @@
     ]
   },
   "url": "https://github.com/vladimir-xaro/fvtt-xaro-restrict",
-  "manifest": "https://raw.githubusercontent.com/vladimir-xaro/fvtt-xaro-restrict/0.0.1/module.json",
+  "manifest": "https://raw.githubusercontent.com/vladimir-xaro/fvtt-xaro-restrict/main/module.json",
   "download": "https://github.com/vladimir-xaro/fvtt-xaro-restrict/releases/download/0.0.1/module.zip"
 }
