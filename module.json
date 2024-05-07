@@ -2,7 +2,7 @@
   "id": "xaro-restrict",
   "title": "Xaro Restrict",
   "description": "Limiting the movement of tokens in battle (or always) and the range of interaction with the door.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     {
       "name": "xaro"
@@ -40,5 +40,5 @@
   },
   "url": "https://github.com/vladimir-xaro/fvtt-xaro-restrict",
   "manifest": "https://raw.githubusercontent.com/vladimir-xaro/fvtt-xaro-restrict/main/module.json",
-  "download": "https://github.com/vladimir-xaro/fvtt-xaro-restrict/releases/download/0.0.1/module.zip"
+  "download": "https://github.com/vladimir-xaro/fvtt-xaro-restrict/releases/download/0.0.2/module.zip"
 }
