@@ -1,0 +1,39 @@
+{
+  "id": "xaro-restrict",
+  "title": "Xaro Restrict",
+  "description": "Limiting the movement of tokens in battle (or always) and the range of interaction with the door.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "xaro"
+    }
+  ],
+  "socket": true,
+  "esmodules": [
+    "src/main.js"
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "drag-ruler",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
+      }
+    ]
+  },
+  "url": "https://github.com/vladimir-xaro/fvtt-xaro-restrict",
+  "manifest": "https://raw.githubusercontent.com/vladimir-xaro/fvtt-xaro-restrict/0.0.1/module.json",
+  "download": "https://github.com/vladimir-xaro/fvtt-xaro-restrict/releases/download/0.0.1/module.zip"
+}

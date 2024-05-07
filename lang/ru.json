@@ -1,0 +1,46 @@
+{
+	"xaro-restrict": {
+		"yes": "Да",
+		"no": "Нет",
+		"notifications": {
+			"not-your-turn": "Сейчас не ваш ход!",
+			"await": "Ответьте на предыдущий диалог или обновите страницу, если возникли проблемы!!!",
+			"invalid-speed-attr": "[XRestrict] The speed attribute is invalid, the default value (30ft) is used",
+			"wait-gm-response": "Ожидайте решения ГМ",
+			"door-range": "Вы слишком далеко от двери!!!",
+			"gm-moved-token": "Вы переместили токен игрока {name}",
+			"token-not-found": "Токен для обновления не найден",
+			"player-exceeded-speed": "Игрок {name} превысил свою скорость перемещения",
+			"allowed-to-move": "Вам разрешили переместиться",
+			"success-moved": "Вы успешно превысили скорость"
+		},
+		"buttons": {
+			"pan-destination": "Показать точку назначения"
+		},
+		"titles": {
+			"player-move-request": "Игрок желает совершить обгон",
+			"you-exceeded-speed": "Вы превысили скорость!!!",
+			"doors": "Двери",
+			"restrict-move": "Ограничение передвижения"
+		},
+		"contents": {
+			"gm-move-request": "Попросить ГМ закрыть на это глаза?",
+			"move-request": "Продолжить передвижение?",
+			"player-moves": "<p>Разрешить игроку {name} превысить скорость?</p><p>Пройденная дистанция перед запросом: {beforeDistance} ft</p><p>Последний отрезок пути: {lastDistance} ft</p><p>Итоговая дистанция: {distance} ft</p>"
+		},
+		"settings": {
+			"interaction-doors-on": "Включить радиус взаимодействия с дверьми",
+			"interaction-doors-range": "Радиус взаимодействия с дверью, ft",
+			"move-on": "Включить ограничение передвижения",
+			"move-combat-only": "Только в битвах",
+			"move-attribute": "Атрибут для отслеживания скорости персонажа",
+			"move-request": "Включить запрос для ГМ",
+			"move-pan": "При запросе игрока, перемещать камеру на место назначения автоматически"
+		},
+		"hints": {
+			"reload-require": "Требуется перезагрузка",
+			"gm-require-permission": "При превышении скорости будет требоваться разрешение от ГМ",
+			"gm-only": "Только для ГМ"
+		}
+	}
+}
