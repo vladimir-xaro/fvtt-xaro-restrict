@@ -18,7 +18,7 @@
 			"pan-destination": "Показать точку назначения"
 		},
 		"titles": {
-			"player-move-request": "Игрок желает совершить обгон",
+			"player-move-request": "Игрок желает превысить скорость персонажа",
 			"you-exceeded-speed": "Вы превысили скорость!!!",
 			"doors": "Двери",
 			"restrict-move": "Ограничение передвижения"

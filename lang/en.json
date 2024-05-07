@@ -1,0 +1,46 @@
+{
+	"xaro-restrict": {
+		"yes": "Yes",
+		"no": "No",
+		"notifications": {
+			"not-your-turn": "Not your turn!",
+			"await": "Reply to the previous dialogue or refresh the page if there are problems!!!",
+			"invalid-speed-attr": "[XRestrict] The speed attribute is invalid, the default value (30ft) is used",
+			"wait-gm-response": "Wait for GM's decision",
+			"door-range": "You are too far from the door!!!",
+			"gm-moved-token": "You moved the player token {name}",
+			"token-not-found": "No token found for modification",
+			"player-exceeded-speed": "Player {name} has exceeded his movement speed",
+			"allowed-to-move": "You have been allowed to move",
+			"success-moved": "You have successfully exceeded the speed limit"
+		},
+		"buttons": {
+			"pan-destination": "Show destination"
+		},
+		"titles": {
+			"player-move-request": "The player wants to exceed the character's speed",
+			"you-exceeded-speed": "You have exceeded the speed limit!!!",
+			"doors": "Doors",
+			"restrict-move": "Movement restrictions"
+		},
+		"contents": {
+			"gm-move-request": "Ask the GM to close his eyes to this?",
+			"move-request": "Continue moving?",
+			"player-moves": "<p>Allow player {name} to exceed the character's movement speed?</p><p>Distance traveled before request: {beforeDistance} ft</p><p>Last distance: {lastDistance} ft</p><p >Final distance: {distance} ft</p>"
+		},
+		"settings": {
+			"interaction-doors-on": "Enable door interaction range",
+			"interaction-doors-range": "Radius of interaction with the door, ft",
+			"move-on": "Enable movement restriction",
+			"move-combat-only": "Only during combats",
+			"move-attribute": "Attribute for tracking character speed",
+			"move-request": "Enable request for GM",
+			"move-pan": "When requested by the player, move the camera to the destination automatically"
+		},
+		"hints": {
+			"reload-require": "Reboot required",
+			"gm-require-permission": "Excessive speeding will require permission from GM",
+			"gm-only": "Only for GM"
+		}
+	}
+}
